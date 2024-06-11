@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**dnayak99/dnayak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi Everyone, I am DEBASHIS NAYAK ! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://activity-graph.herokuapp.com/graph?username=deb2000-sudo&theme=react-dark&hide_border=true&area=true)
+
+- 🔭 I’m currently student at IIT Madras
+- 🌱 I’m currently learning Web Development using React,Flask
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with a good team for React Projects
+- 💬 Ask me about Javascript,Python,Flask
+- 📫 How to reach me: Linkedln - Debashis Nayak[https://www.linkedin.com/in/debashis-nayak-6b013b198/]
+- 😄 Pronouns: Ha/his
+- ⚡ Fun fact: I am a seeker
